@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+header div{
+    margin: 10px;
+}
+.nav{
+    height:70px;
+    width:1050px;
+    position: absolute;
+    left:420px;
+    top:6px;
+     background-color: rgb(26, 25, 25);
+     cursor: pointer;
+}
+.nav button{
+    border-radius: 25px;
+    height:50px;
+    padding: 10px;
+    width:100px;
+    position: absolute;
+    left:900px;
+    top:10px;
+}
+.but{
+    color: white;
+  
+    position: absolute;
+    left:800px;
+    top:20px;
+    cursor: pointer;
+}
+.but a{
+    text-decoration: none;
+    color: white;
+}
+
+.inner{
+    height:200px;
+    width:400px;
+    background-color: rgb(25, 25, 25);
+    border-radius: 10px;
+    padding:10px;
+    cursor: pointer;
+}
+.inner div{
+    padding:10px;
+}
+.inner b{
+    color:white;
+    margin-left: 15px;
+}
+.inner1{
+    height:470px;
+    width:400px;
+    background-color: rgb(22, 22, 22);
+    border-radius: 10px; 
+    color: white;
+    padding:10px;
+}
+.btn{
+    background-color: white;
+    border-radius: 22px;
+}
+.card2{
+    background-color: black;
+}
+.card{
+    background-color: black; 
+    width:370px !important;
+    margin-left: -10px;
+}
+.eng a{
+ color: white;
+ text-decoration: none;
+ font-weight: lighter;
+ margin:20px;
+ padding:5px;
+}
+.eng button{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    border: 1px solid white;
+    border-radius: 25px;
+    width:100px;
+    margin:20px;
+    padding:5px;
+    margin-top: 50px;;
+}
+.eng button:hover{
+    background-color: rgb(22, 22, 22); 
+    scale: 1.02;
+}
